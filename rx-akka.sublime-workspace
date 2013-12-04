@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"H",
+				"Http	(ActorSystem)"
+			],
+			[
+				"z",
+				"zip3	[a] -> [b] -> [c] -> [(a, b, c)]"
+			],
+			[
+				"I",
+				"IO	(ExtensionId[T]), (ActorSystem)"
+			],
+			[
+				"unsafe",
+				"unsafePerformIO	()"
+			],
+			[
+				"io",
+				"ioValue"
+			],
+			[
+				"unsa",
+				"unsafePerformIO	()"
+			],
+			[
+				"uns",
+				"unsafePerformIO	()"
+			],
+			[
+				"Tra",
+				"Traversables	"
+			],
+			[
+				"s",
+				"syntax	"
+			],
+			[
+				"ac",
+				"actorSelection	(ActorPath)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Quick Add"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"a",
+				"Git: Quick Add"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"l",
+				"Git: Log"
+			],
+			[
+				"lo",
+				"Git: Log"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Quick Add"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"res",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"sbt",
+				"SBT: Start SBT"
+			],
+			[
+				"stop",
+				"SBT: Stop SBT"
+			],
+			[
+				"star",
+				"SBT: Start SBT"
+			],
+			[
+				"open ",
+				"Git: Open Modified Files"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"hask",
+				"SublimeHaskell: Check"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"add",
+				"Git: Quick Add"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"show",
+				"SBT: Show SBT Output"
+			],
+			[
+				"en",
+				"Ensime: Startup"
+			],
+			[
+				"con",
+				"SBT: Start Console"
+			],
+			[
+				"conso",
+				"SBT: Start Console"
+			],
+			[
+				"wor",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"eva",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"work",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"wo",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"ensi",
+				"Ensime: Startup"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"start",
+				"SBT: Start SBT"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"git ad",
+				"Git: Quick Add"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ensim",
+				"Ensime: Startup"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			":call"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lvicentesanchez/development/repositories/github/rx-akka/project/Build.scala",
+		"/home/lvicentesanchez/development/repositories/github/rx-akka/src/main/scala/RxAkka.scala",
+		"/home/lvicentesanchez/development/repositories/github/akka-rx-scala/src/main/scala/RxAkka.scala",
+		"/home/lvicentesanchez/development/repositories/github/akka-rx-scala/project/Build.scala",
+		"/home/lvicentesanchez/development/repositories/github/akka-rx-scala/README.md",
+		"/home/lvicentesanchez/development/sources/scala/coursera/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/src/main/scala/spray/examples/ArgonautSupport.scala",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/src/main/scala/spray/examples/MainService.scala",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/src/main/scala/spray/examples/MainServiceActor.scala",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/src/main/scala/spray/examples/Handler.scala",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/src/main/scala/spray/examples/User.scala",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/src/main/scala/spray/examples/Address.scala",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/src/main/scala/spray/examples/Boot.scala",
+		"/home/lvicentesanchez/development/repositories/gitlab/pager/src/main/scala/com/mindcandy/services/pager/utils/ArgonautMarshallers.scala",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/project/Build.scala",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/request.json",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/.gitignore",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/project/build.properties",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/src/main/scala/FutureOption.scala",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/project/plugins.sbt",
+		"/home/lvicentesanchez/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/src/main/scala/spray/examples/AddressCodec.scala",
+		"/home/lvicentesanchez/.config/sublime-text-3/Packages/User/SublimeREPL.sublime-settings",
+		"/home/lvicentesanchez/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/lvicentesanchez/.config/sublime-text-3/Packages/User/Ensime.sublime-settings",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/src/main/scala/spray/examples/UserCodec.scala",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/target/External Libraries/akka-actor_2.10-2.2.0/akka/actor/ActorRef.scala",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/target/External Libraries/akka-actor_2.10-2.2.0/akka/io/IO.scala",
+		"/home/lvicentesanchez/development/repositories/github/shall-be.more/src/main/scala/spray/examples/AddressProtocol.scala",
+		"/home/lvicentesanchez/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/lvicentesanchez/.config/sublime-text-3/Packages/SideBarEnhancements/CHANGELOG",
+		"/home/lvicentesanchez/.config/sublime-text-3.old/Packages/User/Preferences.sublime-settings",
+		"/home/lvicentesanchez/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/lvicentesanchez/development/sources/haskell/baby.hs",
+		"/home/lvicentesanchez/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/lvicentesanchez/.config/sublime-text-3/Packages/SublimeHaskell/SublimeHaskell.sublime-settings",
+		"/home/lvicentesanchez/.config/sublime-text-3/Packages/User/SublimeHaskell.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"path",
+			"\",\n",
+			"red",
+			"RC1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "rx-akka.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
